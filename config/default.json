@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:5rztLoezw2OeYqAo@sapsancargo.d2azt.mongodb.net/?retryWrites=true&w=majority&appName=sapsancargo",
+    "secretKey" : "mern-secret-key"
+}
